@@ -1,5 +1,5 @@
 # prueba_numpy_con_numba
-Comprobación de la aceleración que tiene numpy usando numba
+Comprobación de la aceleración que tiene NumPy usando Numba
 
 Numba es un compilador JIT de código abierto que traduce una parte de código de Python y NumPy en código de máquina usando LLVM, a través del paquete llvmlite de Python. 
 
